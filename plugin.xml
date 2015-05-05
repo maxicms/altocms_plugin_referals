@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <id>referals</id>
+    <name>
+        <lang name="default">Рефералы</lang>
+        <lang name="english">Referals</lang>
+    </name>
+    <author>
+        <lang name="default">maxiSoft</lang>
+        <lang name="english">maxiSoft</lang>
+    </author>
+    <homepage>http://themeinstant.ru</homepage>
+    <version>0.0.1</version>
+    <dirname>referals</dirname>
+    <requires>
+        <alto>
+            <version>1.1.0-beta</version>
+        </alto>
+        <system>
+            <php>5.3.0</php>
+        </system>
+    </requires>
+    <description>
+        <lang name="default">Плагин рефералов пользователя</lang>
+        <lang name="default">The plugin of simple Referals system</lang>
+    </description>
+</plugin>
